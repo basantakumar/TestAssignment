@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAssignment</string>
+    <string name="info_json_url">https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json</string>
+    <string name="hint_row_image">row_image</string>
+    <string name="no_title_text">No Title</string>
+    <string name="no_desc_text">No Desc </string>
+</resources>
